@@ -1,2 +1,2 @@
-# friendsandacquaintances
-Program to store information about all your friends.
+# Friends and Acquaintances
+A program to store your friends and acquaintances, and their information.
