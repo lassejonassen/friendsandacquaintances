@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Lasse",
+    "lastName": "Jonassen",
+    "email": "mail",
+    "mobile": "20546791",
+    "interests": [
+      "programmering",
+      "sport"
+    ]
+  },
+  {
+    "firstName": "Hej",
+    "lastName": "Thomsen",
+    "email": "mail@mail.dk",
+    "mobile": "12341234",
+    "interests": [
+      "programmering",
+      "gaming",
+      "skak"
+    ]
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Jonassen",
+    "email": "NA",
+    "mobile": "NA",
+    "interests": []
+  }
+]
